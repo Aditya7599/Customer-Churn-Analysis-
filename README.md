@@ -79,8 +79,3 @@ Conclusion
 
 This project clearly identifies who leaves, why they leave, and how to reduce churn.
 It combines data analysis with business thinking — exactly what a real churn analytics team would expect.
-
-
-✅ A crisp LinkedIn case study post
-✅ A GitHub description paragraph
-Just say “MAKE RESUME SUMMARY” or “MAKE LINKEDIN POST”
